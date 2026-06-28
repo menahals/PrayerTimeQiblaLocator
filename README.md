@@ -10,13 +10,13 @@ An Android application that helps users with daily Islamic activities by providi
 
 ---
 
-## ✨ Features
-- ✅ Prayer time calculation using Adhan Library  
-- ✅ Qibla direction using device sensors  
-- ✅ Digital Tasbih counter with target tracking  
-- ✅ 12-hour and 24-hour time formats  
-- ✅ Hijri and Gregorian dates  
-- ✅ User preferences saved using SharedPreferences  
+## 👾 Features
+- Prayer time calculation using Adhan Library  
+- Qibla direction using device sensors  
+- Digital Tasbih counter with target tracking  
+- 12-hour and 24-hour time formats  
+- Hijri and Gregorian dates  
+- User preferences saved using SharedPreferences  
 
 ---
 
