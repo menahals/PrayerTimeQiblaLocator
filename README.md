@@ -69,7 +69,7 @@ The application uses a simple and user-friendly interface with a Bottom Navigati
 ## Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/menahals/PrayerTime-Qibla-Locator.git
+   git clone https://github.com/menahals/PrayerTimeQiblaLocator.git
    ```
 2. Open the project in Android Studio: Select `Open an Existing Project` and navigate to the cloned folder.
 3. Allow Gradle to sync: Wait for Android Studio to automatically sync and build your project dependencies.
