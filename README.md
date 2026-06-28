@@ -67,7 +67,7 @@ The application uses a simple and user-friendly interface with a Bottom Navigati
 * **Gradle** (configured automatically)
 
 ## Setup Steps
-1. Clone the repository:
+1. Download or clone the repository:
    ```bash
    git clone https://github.com/menahals/PrayerTimeQiblaLocator.git
    ```
