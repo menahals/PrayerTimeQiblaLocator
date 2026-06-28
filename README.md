@@ -55,6 +55,13 @@ The application uses a simple and user-friendly interface with a Bottom Navigati
 ---
 
 ## 🚀 How to Run the Project
+
+### Prerequisites
+* **Android Studio** (Ladybug or newer)
+* **Android SDK** (API level 21 or higher)
+* **Gradle** (configured automatically)
+
+###Setup Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/menahals/PrayerTime-Qibla-Locator.git
@@ -62,3 +69,5 @@ The application uses a simple and user-friendly interface with a Bottom Navigati
 2. Open the project in Android Studio
 3. Allow Gradle to sync
 4. Run the app on Emulator OR Physical Android device
+
+‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
