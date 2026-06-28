@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Time &amp; Qibla Locator</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_prayer">Prayer</string>
+    <string name="nav_qibla">Qibla</string>
+    <string name="nav_tasbih">Tasbih</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Prayer times -->
+    <string name="prayer_times_title">Prayer Times</string>
+    <string name="location_placeholder">Select your location</string>
+    <string name="gregorian_date_sample">Saturday, 23 May 2026</string>
+    <string name="hijri_date_sample">25 Dhul-Qadah 1447</string>
+    <string name="next_prayer_label">Next prayer</string>
+    <string name="next_prayer_countdown_sample">Dhuhr in 2h 14m</string>
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Sunrise</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    <string name="prayer_times_hint">Times update automatically based on your selected city.</string>
+    <string name="select_city">Select UAE City</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">Qibla Direction</string>
+    <string name="qibla_subtitle">Point your device toward the Kaaba</string>
+    <string name="qibla_degrees_sample">287°</string>
+    <string name="qibla_direction_label">from North</string>
+    <string name="qibla_accuracy">Hold phone flat for best accuracy</string>
+    <string name="qibla_enable_location">Enable location to find Qibla</string>
+
+    <!-- Tasbih -->
+    <string name="tasbih_title">Digital Tasbih</string>
+    <string name="tasbih_subtitle">Tap the circle or + to count</string>
+    <string name="tasbih_count_default">0</string>
+    <string name="tasbih_target_label">Target</string>
+    <string name="tasbih_target_default">33</string>
+    <string name="tasbih_increment">+1</string>
+    <string name="tasbih_reset">Reset</string>
+    <string name="tasbih_progress">%1$d / %2$d</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_subtitle">Saved on this device</string>
+    <string name="settings_time_format">24-hour time format</string>
+    <string name="settings_notifications">Prayer notifications</string>
+    <string name="settings_tasbih_haptic">Haptic feedback (Tasbih)</string>
+    <string name="settings_tasbih_target">Tasbih target count</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_summary">Prayer Time &amp; Qibla Locator v1.0</string>
+
+    <string-array name="tasbih_target_options">
+        <item>33</item>
+        <item>99</item>
+        <item>100</item>
+        <item>1000</item>
+    </string-array>
+
+    <string-array name="uae_cities">
+        <item>Dubai</item>
+        <item>Abu Dhabi</item>
+        <item>Sharjah</item>
+        <item>Ajman</item>
+        <item>Umm Al Quwain</item>
+        <item>Ras Al Khaimah</item>
+        <item>Fujairah</item>
+        <item>Al Ain</item>
+    </string-array>
+</resources>

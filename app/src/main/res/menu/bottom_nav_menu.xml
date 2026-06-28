@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_prayer"
+        android:icon="@drawable/ic_nav_prayer"
+        android:title="@string/nav_prayer" />
+    <item
+        android:id="@+id/nav_qibla"
+        android:icon="@drawable/ic_nav_qibla"
+        android:title="@string/nav_qibla" />
+    <item
+        android:id="@+id/nav_tasbih"
+        android:icon="@drawable/ic_nav_tasbih"
+        android:title="@string/nav_tasbih" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_nav_settings"
+        android:title="@string/nav_settings" />
+</menu>
